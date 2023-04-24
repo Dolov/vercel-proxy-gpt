@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 import { createParser } from "eventsource-parser";
 
-const OPENAI_API_KEY = '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'
+const OPENAI_API_KEY = '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'
 
 export const config = {
   runtime: 'edge',
